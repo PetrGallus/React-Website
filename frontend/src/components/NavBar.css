@@ -1,0 +1,16 @@
+
+nav{
+    margin-top: 20px;
+    margin: auto;
+    border: 1px black solid;
+    background-color: aquamarine;
+    position: fixed;
+}
+ul{
+    text-align: center;
+    margin: 10px;
+    list-style-type: none;
+}
+ul li {
+    display: inline-block;
+}
